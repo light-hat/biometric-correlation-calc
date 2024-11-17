@@ -1,0 +1,10 @@
+**/packages/*
+!**/packages/repositories.config
+.vs/
+Correlation/bin/
+Correlation/obj/
+CorrelationCalcUnitTests\bin\
+CorrelationCalcUnitTests\obj\
+*.dll
+*.exe
+*.pdb
